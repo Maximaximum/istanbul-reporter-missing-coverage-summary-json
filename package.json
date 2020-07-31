@@ -1,0 +1,16 @@
+{
+  "name": "istanbul-reporter-missing-coverage-summary-json",
+  "version": "0.0.1",
+  "description": "Istanbuljs custom reporter to generate json summary only for the files that have coverage below 100%",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "coverage",
+    "istanbul",
+    "reporter"
+  ],
+  "author": "Maksym Kobieliev",
+  "license": "MIT"
+}
